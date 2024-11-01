@@ -1,0 +1,13 @@
+name: Change
+slug: change
+image: '/images/change.png'
+description: Struggle with managing and communicating change across APIs across
+  the lifecycle.
+tags:
+  - Change
+  - Versioning
+  - Versions
+properties:
+  - RoadMap
+  - ChangeLog
+  - Versioning 
