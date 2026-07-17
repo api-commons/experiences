@@ -69,3 +69,14 @@ This work acknowledges that services, tooling, and the general approach of API g
 
 ## Support
 This work is in early stage of development and rapidly moving as they are being applied in a variety of user interfaces and approaches to the automation and reporting of API governance. If you would like to contribute, have any questions, or would like to inform the work happening, please submit a GitHub issue on the repository or email kin@apievangelist.com.
+
+## Part of API Commons
+
+A machine-readable building block from **[API Commons](https://apicommons.org)** — open specifications and schemas for the APIs you produce and consume. See all building blocks and tools at **[apicommons.org](https://apicommons.org)** and the tools at **[apicommons.org/tools](https://apicommons.org/tools/)**.
+
+**Related building blocks**
+- [policies](https://github.com/api-commons/policies) — the business rules behind API governance
+- [rules](https://github.com/api-commons/rules) — Spectral rulesets across many artifact types
+- [guidance](https://github.com/api-commons/guidance) — the how-to layer that turns governance rules into help
+- [use-cases](https://github.com/api-commons/use-cases) — how an API is actually put to work, tied to its operations
+- [lifecycle](https://github.com/api-commons/lifecycle) — the stages every API moves through
